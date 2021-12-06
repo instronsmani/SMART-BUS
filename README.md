@@ -15,7 +15,7 @@ SOLUTION:
  
  HARDWARE AND SOFTWARE REQUIREMENTS:
  
-   Tensorflow, OpenCV, Keras, Rasperry-pi, Camera
+   Tensorflow, OpenCV, Keras, Raspberry-pi, Camera
    
  PROCESS FLOW
  
